@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Univer</string>
+    <string-array name="inNav">
+        <item>ТОП-10</item>
+        <item>Национальные ВУЗы</item>
+        <item>Международные ВУЗы</item>
+        <item>Государственные ВУЗы</item>
+        <item>ВУЗы силовых и фискальных ведомств</item>
+        <item>Акционированные ВУЗы</item>
+        <item>Частное ВУЗы</item>
+        <item>Пожаловать</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="screen_one">Screen one</string>
+    <string name="screen_two">Screen two</string>
+    <string name="screen_three">Screen three</string>
+</resources>
